@@ -1,11 +1,6 @@
 ## Hi there 👋
 
 My name is Teo and I study computer science at Rice University.
-- 🔭 I’m currently working on everything and nothing.
-- 🌱 I’m currently learning Python.
-- 💬 Ask me about algorithms.
-- 😄 Pronouns: She/her
-- ⚡ Fun fact: Why did the programmer go broke? ...Because he used up all his cache.
 <!--
 **teokakabadze/teokakabadze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
